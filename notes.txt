@@ -1,0 +1,408 @@
+Q1. Citation: In APA format, what is the full citation including title, authors, journal name, publication year, and DOI or URL?
+
+Q2. Reviewer Info Your name:
+
+Q3. Participants: How many participants were included, and what are their key demographics? (Example: 20 AWS and 20 AWNS)
+
+Q4. Study Type: What is the type of study design? Select all that apply.
+Options:
+
+pre-post study
+
+longitudinal
+
+cross-sectional
+
+experimental
+
+case report
+
+quasi-experimental
+
+exploratory
+
+randomized control trial
+
+mixed methods
+
+group comparison
+
+qualitative
+
+clinical trial
+
+observational
+
+survey
+
+other
+
+Q5. Self-Identification: Did participants self-identify as people who stutter?
+Options:
+
+Yes
+
+No
+
+Not applicable
+
+Not reported
+
+Q6. Inclusion Criteria for Stuttering: What specific stuttering-related criteria were used to include participants? (e.g., self-report, severity, %SS)
+Criterion 1
+Criterion 2
+Criterion 3
+Criterion 4
+Criterion 5
+
+Q7. Standardized Assessments: Were stuttering-specific standardized assessments for surface stuttering behaviors used for participant inclusion (e.g., SSI, TOCS)?
+Options:
+
+Yes
+
+No
+
+Q8. Please list the assessments.
+Options:
+
+SSI
+
+TOCS
+
+Other (please list)
+
+Q9. Behavioral Measures for Inclusion: Were any stuttering behavioral measures used to determine inclusion? (e.g., %SS, types of disfluencies, etc.)
+Options:
+
+Yes
+
+No
+
+Not reported
+
+Q10. Provide the specific behavioral measures (e.g., %SS, type and/or frequency of stuttering).
+Measure 1
+Measure 2
+Measure 3
+Measure 4
+Measure 5
+
+Q11. Behavioral Measures for grouping/classification: Were any stuttering behavioral measures used to group participants once they were included?
+Options:
+
+Yes
+
+No
+
+Not reported
+
+Q12. Specify the grouping behavioral measures (e.g., %SS, 8-9-10 point severity scales, SSI)
+Measure 1
+Measure 2
+Measure 3
+Measure 4
+Measure 5
+
+Q13. Behavioral Measures as Outcome Variables: Were any stuttering behavioral measures used as outcome variables?
+Options:
+
+Yes
+
+No
+
+Not reported
+
+Q14. Specify the outcome behavioral measures (e.g., %SS, 8-9-10 point severity scales, SSI)
+Measure 1
+Measure 2
+Measure 3
+Measure 4
+Measure 5
+
+Q15. Study Qualification (This study is qualified for review. Please continue the survey.)
+
+Q16. Additional Stuttering Measures: Were any additional stuttering measures used to assess the affective or cognitive reactions of stuttering? (e.g., OASES, communicative participation, SESAS)
+Options:
+
+Yes
+
+No
+
+Not reported
+
+Q17. Speech Sample Details for Inclusion: Please describe each speech sample used (e.g., time, task, and/or setting).
+Speech Sample 1
+Speech Sample 2
+Speech Sample 3
+Additional samples (if any)
+
+Q18. Accounting for time in Inclusion Criteria: Did the study account for variability across time in participant inclusion? (must have used behavioral measures on at least 2 distinct days)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q19. How many times? (inclusion criteria only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q20. Accounting for task in Inclusion Criteria: Did the study account for variability across tasks in participant inclusion? (must have used behavioral measures in at least 2 distinct tasks, such as reading and conversational speech)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q21. How many tasks? (inclusion criteria only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q22. Accounting for Setting in Inclusion Criteria: Did the study account for variability across settings in participant inclusion? (must have used behavioral measures in at least 2 distinct settings, such as the clinic and at home)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q23. How many settings? (inclusion criteria only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q24. Accounting for Variability in Inclusion Criteria: Was variability accounted for in inclusion criteria in this study? (must have accounted for at least 2 of the 3: time, task, and/or setting)
+Options:
+
+Accounted for variability
+
+Did not account for variability
+
+Undetermined (Explain)
+
+Q25. Speech Samples for Grouping/Categorizing: Were speech samples used for grouping participants once they were included in the study?
+Options:
+
+Yes
+
+No
+
+Q26. Speech Sample Details for Grouping/Categorization: Please describe each speech sample used (e.g., time, task, and/or setting).
+Speech Sample 1
+Speech Sample 2
+Speech Sample 3
+Additional samples (if any)
+
+Q27. Accounting for time in Grouping/Categorization: Did the study account for variability across time in participant grouping? (must have used behavioral measures on at least 2 distinct days)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q28. How many times? (participant grouping only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q29. Accounting for task in Grouping/Categorization: Did the study account for variability across tasks in participant grouping? (must have used behavioral measures in at least 2 distinct tasks, such as reading and conversational speech)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q30. How many tasks? (participant grouping only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q31. Accounting for setting in Grouping/Categorization: Did the study account for variability across settings in participant grouping? (must have used behavioral measures in at least 2 distinct settings, such as the clinic and at home)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q32. How many settings? (participant grouping only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q33. Accounting for Variability in Grouping/Categorization: Was variability accounted for in participant grouping/categorization in this study? (must have accounted for at least 2 of the 3: time, task, and/or setting)
+Options:
+
+Accounted for variability
+
+Did not account for variability
+
+Undetermined (Explain)
+
+Q34. Speech Samples for Outcome Measures: Were speech samples used for outcome measures in the study?
+Options:
+
+Yes
+
+No
+
+Q35. Speech Sample Details for Outcome Measures: Please describe each speech sample used (e.g., time, task, and/or setting).
+Speech Sample 1
+Speech Sample 2
+Speech Sample 3
+Additional samples (if any)
+
+Q36. Accounting for time in Outcome Measures: Did the study account for variability across time in outcome measures? (must have used behavioral measures on at least 2 distinct days)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q37. How many times? (outcome measures only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q38. Accounting for task in Outcome Measures: Did the study account for variability across tasks in outcome measures? (must have used behavioral measures in at least 2 distinct tasks, such as reading and conversational speech)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q39. How many tasks? (outcome measures only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q40. Accounting for Setting in Outcome Measures: Did the study account for variability across settings in outcome measures? (must have used behavioral measures in at least 2 distinct settings, such as the clinic and at home)
+Options:
+
+Yes
+
+No
+
+Not Reported or unclear (explain)
+
+Q41. How many settings? (outcome measures only)
+Options:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+More (Please Specify)
+
+Q42. Accounting for Variability in Outcome Measures: Was variability accounted for in outcome measures in this study? (must have accounted for at least 2 of the 3: time, task, and/or setting)
+Options:
+
+Accounted for variability
+
+Did not account for variability
+
+Undetermined (Explain)
+
+Q43. Additional Information and Notes: Is there any additional information or notes relevant to this review?
