@@ -1,0 +1,24 @@
+# LLM Fine-tuning with LoRA - Requirements
+# For 16GB RAM systems (macOS compatible)
+
+# Core
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.16.0
+accelerate>=0.27.0
+
+# LoRA / PEFT
+peft>=0.10.0
+
+# Training
+trl>=0.8.0
+
+# Evaluation
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
